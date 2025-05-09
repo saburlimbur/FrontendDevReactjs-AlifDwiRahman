@@ -1,12 +1,37 @@
-# React + Vite
+# FrontendDevReactjs-AlifDwiRahman
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deskripsi
 
-Currently, two official plugins are available:
+Merupakan proyek Technical Test Frontend React.js, yang dibangun dengan menggunakan React dan berbagai dependensi terkait, seperti React Router, TailwindCSS, Leaflet, dan lainnya.
+Proyek ini dirancang untuk mengimplementasikan mockup design yang sudah disediakan.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Versi
 
-## Expanding the ESLint configuration
+- **React**: 18.0.0 (atau versi yang relevan)
+- **Node.js**: 18.x.x (atau versi yang relevan)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Cara Menjalankan Proyek
+
+#### 1. Clone Repository
+Pertama, clone repository ini ke komputer lokal Anda:
+```bash
+git clone https://github.com/saburlimbur/FrontendDevReactjs-AlifDwiRahman
+```
+
+#### 2. Pindah Project ke Directori
+Setelah meng-clone repository, buka folder proyek di terminal dan jalankan perintah berikut.
+```bash
+cd FrontendDevReactjs-AlifDwiRahman
+```
+
+#### 3. Instal Dependensi
+Lalu gunakan perintah berikut untuk menginstal dependencies
+```bash
+npm install
+```
+
+#### 4. Jalankan Project
+Jika sudah, gunakan perintah berikut untuk menjalankan program
+```bash
+npm run dev
+```
